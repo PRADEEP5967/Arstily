@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Ava Harmony",
+    "category": "Singers",
+    "priceRange": "$500 - $1,000",
+    "location": "New York, NY",
+    "image": "/artist-ava.jpg",
+    "bio": "Award-winning jazz singer with a soulful voice and a decade of live performance experience."
+  },
+  {
+    "id": "2",
+    "name": "DJ Pulse",
+    "category": "DJs",
+    "priceRange": "$800 - $1,500",
+    "location": "Los Angeles, CA",
+    "image": "/artist-djpulse.jpg",
+    "bio": "High-energy DJ known for electrifying dance floors at major festivals and private events."
+  },
+  {
+    "id": "3",
+    "name": "The String Quartet",
+    "category": "Singers",
+    "priceRange": "$1,200 - $2,000",
+    "location": "Chicago, IL",
+    "image": "/artist-quartet.jpg",
+    "bio": "Elegant string quartet specializing in weddings, corporate galas, and upscale soirées."
+  },
+  {
+    "id": "4",
+    "name": "Lila Groove",
+    "category": "Singers",
+    "priceRange": "$600 - $1,200",
+    "location": "Miami, FL",
+    "image": "/artist-lila.jpg",
+    "bio": "Chart-topping pop artist with a unique sound and captivating stage presence."
+  },
+  {
+    "id": "5",
+    "name": "Maya Moves",
+    "category": "Dancers",
+    "priceRange": "$700 - $1,300",
+    "location": "San Francisco, CA",
+    "image": "/artist-maya.jpg",
+    "bio": "Contemporary dancer with international touring experience and TV credits."
+  },
+  {
+    "id": "6",
+    "name": "Dr. Speakwell",
+    "category": "Speakers",
+    "priceRange": "$1,000 - $2,500",
+    "location": "Austin, TX",
+    "image": "/artist-speakwell.jpg",
+    "bio": "Motivational speaker and author, inspiring audiences worldwide."
+  },
+  {
+    "id": "7",
+    "name": "Arijit Singh",
+    "category": "Indian Singers",
+    "priceRange": "$2,000 - $5,000",
+    "location": "Mumbai, India",
+    "image": "/globe.svg",
+    "bio": "Renowned Bollywood playback singer known for soulful melodies and chart-topping hits."
+  },
+  {
+    "id": "8",
+    "name": "Deepika Padukone",
+    "category": "Indian Actresses",
+    "priceRange": "$10,000+",
+    "location": "Mumbai, India",
+    "image": "/file.svg",
+    "bio": "Award-winning Indian film actress, model, and global icon with a stellar career in Bollywood."
+  },
+  {
+    "id": "9",
+    "name": "Neha Sharma",
+    "category": "Indian Models",
+    "priceRange": "$1,500 - $3,000",
+    "location": "Delhi, India",
+    "image": "/globe.svg",
+    "bio": "Leading Indian fashion model featured in top magazines and runway shows."
+  },
+  {
+    "id": "10",
+    "name": "DJ Chetas",
+    "category": "Indian DJs",
+    "priceRange": "$3,000 - $7,000",
+    "location": "Mumbai, India",
+    "image": "/file.svg",
+    "bio": "India's most popular DJ, known for electrifying Bollywood remixes and live performances."
+  }
+] 
