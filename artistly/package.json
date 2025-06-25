@@ -11,7 +11,10 @@
   "dependencies": {
     "next": "15.3.4",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "@hookform/resolvers": "^5.1.1",
+    "react-hook-form": "^7.58.1",
+    "yup": "^1.6.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
