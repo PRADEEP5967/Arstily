@@ -80,7 +80,7 @@ export default function Footer() {
             ))}
           </nav>
           <p className="text-gray-400 text-[11px] mt-1">
-            Made with <span className="text-pink-500" role="img" aria-label="love">♥</span> for artists &amp; event planners
+            Made with <span className="text-pink-500" role="img" aria-label="love">♥</span> for artists &amp; event planners Develop By Er Pradeep Sahani
           </p>
         </div>
       </div>
